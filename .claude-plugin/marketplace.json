@@ -5,13 +5,13 @@
   },
   "metadata": {
     "description": "Powerhouse Entrepreneur Prompts — free guided coaching skills for Claude by Shea Johnson (AI Business Coach).",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "plugins": [
     {
       "name": "powerhouse-clarity-coach",
       "description": "Vol. 1 — The Foundation. A guided coaching journey through 5 phases: Clarity, Vision, Structure, Build, and Mindset.",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "author": {
         "name": "Shea Johnson LLC"
       },
@@ -24,7 +24,7 @@
     {
       "name": "powerhouse-spiritual-coach",
       "description": "Vol. 2 — Spiritual Enlightenment. A guided spiritual journey through 5 phases: The Inward Turn, The Release, The Alignment, The Expansion, and The Integration.",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "author": {
         "name": "Shea Johnson LLC"
       },
