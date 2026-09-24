@@ -19,20 +19,20 @@ A guided spiritual journey through five phases: The Inward Turn, The Release, Th
 Add the marketplace (one time):
 
 ```
-/plugin marketplace add sheabooking/powerhouse-prompts
+/plugin marketplace add sheabooking/powerhouse-entrepreneur-prompts
 ```
 
 Then install whichever volume you want:
 
 ```
-/plugin install powerhouse-clarity-coach@powerhouse-prompts
-/plugin install powerhouse-spiritual-coach@powerhouse-prompts
+/plugin install powerhouse-clarity-coach@powerhouse-entrepreneur-prompts
+/plugin install powerhouse-spiritual-coach@powerhouse-entrepreneur-prompts
 ```
 
 To pick up new volumes and updates later:
 
 ```
-/plugin marketplace update powerhouse-prompts
+/plugin marketplace update powerhouse-entrepreneur-prompts
 ```
 
 ## Using the Claude app instead?
