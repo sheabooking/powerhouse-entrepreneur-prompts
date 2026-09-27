@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Powerhouse Entrepreneur Prompts — free guided coaching skills for Claude by Shea Johnson (AI Business Coach).",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "plugins": [
     {
@@ -33,6 +33,32 @@
         "url": "https://github.com/sheabooking/powerhouse-spiritual-coach.git"
       },
       "homepage": "https://github.com/sheabooking/powerhouse-spiritual-coach"
+    },
+    {
+      "name": "powerhouse-reinvention-coach",
+      "description": "Vol. 3 — Self Reincarnation. A guided identity transformation through 5 phases: The Ending, The Void, The Becoming, The Embodiment, and The Rebirth.",
+      "version": "1.2.0",
+      "author": {
+        "name": "Shea Johnson LLC"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sheabooking/powerhouse-reinvention-coach.git"
+      },
+      "homepage": "https://github.com/sheabooking/powerhouse-reinvention-coach"
+    },
+    {
+      "name": "powerhouse-discipline-coach",
+      "description": "Vol. 4 — Discipline & Consistency. An execution coach and accountability partner through 5 phases: The Reckoning, The Method, The Recovery, The Execution, and The Integration.",
+      "version": "1.2.0",
+      "author": {
+        "name": "Shea Johnson LLC"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sheabooking/powerhouse-discipline-coach.git"
+      },
+      "homepage": "https://github.com/sheabooking/powerhouse-discipline-coach"
     }
   ]
 }
