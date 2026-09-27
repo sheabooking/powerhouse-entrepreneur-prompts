@@ -1,8 +1,12 @@
-# Powerhouse Entrepreneur Prompts
+# Powerhouse Entrepreneur Series
 
 Free guided coaching skills for Claude, created by **Shea Johnson** (AI Business Coach).
 
 This is the home base for every volume in the series. Add it once, and you can install any volume — plus new ones as they're released.
+
+> **Not a tech person?** Volume 1 also comes as an easy guided PDF. Download it, upload it to ChatGPT or Claude, and the coaching begins. No setup needed: [aibusinesscoach.etsy.com](https://aibusinesscoach.etsy.com)
+>
+> **Want to work with me directly?** [Book a strategy call](https://cal.com/mssheajohnson)
 
 ## The volumes
 
